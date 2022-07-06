@@ -1,0 +1,85 @@
+
+
+
+/*for small device 576px to 361px */
+@media all and (max-width:576px){
+	.slider-content h1{
+		width:100%;
+		text-align:center;
+		font-size:50px;
+	}
+	.slider-content p {
+	width:90%;
+	font-size:14px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	}
+	.slider-content a {
+	width: 50%;
+	text-align: center;
+	margin-left: 25%;
+	}
+	.slider-contact-text h3{
+		font-size: 20px;
+	}
+	.slider-contact-box form input{
+		width: 50%;
+	}
+	.icon-area.mr-5.pt-5 {
+	padding-left: 15px !important;
+	}
+	.header-text h1 {
+    font-size: 30px;
+	}
+	h2{
+		font-size: 16px;
+	}
+}
+
+/*for extra small device 360px to down */
+@media all and (max-width:360px){
+	.contact-info ul li a{
+		font-size: 12px;
+	}
+	.slider-content h1{
+		width:100%;
+		text-align:center;
+		font-size:30px;
+	}
+	.slider-content p{
+		width: 100%;
+		text-align: center;
+	}
+	.slider-content a{
+		width: 100%;
+		text-align: center;
+	}
+	.slider-contact-text h3{
+		font-size: 20px;
+	}
+	.slider-contact-box form input{
+		padding: 5px;
+	}
+	.header-text h1{
+		font-size: 30px;
+	}
+	h2{
+		font-size: 18px;
+	}
+	.header-text h1{
+		font-size: 20px;
+	}
+	.single-counter {
+	margin-bottom: 40px;
+	}
+	.single-footer-top a {
+    padding: 11px 22px;
+	}
+	.slider-content a{
+		margin-left: 0;
+	}
+
+
+
+
+}
